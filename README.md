@@ -22,7 +22,7 @@
   <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML-Hyper%20Text%20Markup%20Language-orange?&style=for-the-badge&logo=HTML5&logoColor=white"/></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue?&style=for-the-badge&logo=CSS3&logoColor=white"/></a>
   <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-Lua-blue?&style=for-the-badge&logo=LUA&logoColor=white"/></a>
-  <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
+  <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/Oracle-Java-orange?&style=for-the-badge&logo=Java&logoColor=white"/></a>
 </div>
 
 <h3 align="center">Tools;</h3>
@@ -31,7 +31,7 @@
   <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Linux-Ubuntu%2020.04-orange?&style=for-the-badge&logo=Ubuntu&logoColor=white"></a>
   <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/Microsoft-Windows%2010-yellow?&style=for-the-badge&logo=Windows&logoColor=white"></a>
   <a href="https://www.eclipse.org/ide/"><img src="https://img.shields.io/badge/Eclipse-Eclipse%20IDE-purple?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"></a>
-  <a href="https://discordhub.com/profile/210057481458548738"><img src="https://img.shields.io/badge/Discord-210057481458548738-purple?&style=for-the-badge&logo=Discord%20IDE&logoColor=white"/></a>
+  <a href="https://discordhub.com/profile/210057481458548738"><img src="https://img.shields.io/badge/Discord-210057481458548738-purple?&style=for-the-badge&logo=Discord&logoColor=white"/></a>
 </div>
 
 ---
