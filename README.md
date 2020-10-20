@@ -11,6 +11,8 @@
   </h3>
 </div>
 
+<img align="center" src="https://northamericanfurryclan.ga/images/3b4733ee.gif"/>
+
 ---
 
 <h1 align="center">Some of my tools & skills;</h1>
