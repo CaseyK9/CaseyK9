@@ -11,8 +11,6 @@
   </h3>
 </div>
 
-<img align="center" height="100" width="100" src="https://northamericanfurryclan.ga/images/3b4733ee.gif"/>
-
 ---
 
 <h1 align="center">Some of my tools & skills;</h1>
@@ -24,6 +22,7 @@
   <a href="https://html.spec.whatwg.org/"><img src="https://img.shields.io/badge/HTML-Hyper%20Text%20Markup%20Language-orange?&style=for-the-badge&logo=HTML5&logoColor=white"/></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS-Cascading%20Style%20Sheets-blue?&style=for-the-badge&logo=CSS3&logoColor=white"/></a>
   <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-Lua-blue?&style=for-the-badge&logo=LUA&logoColor=white"/></a>
+  <a href="https://www.java.com/en/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></a>
 </div>
 
 <h3 align="center">Tools;</h3>
