@@ -11,7 +11,7 @@
   </h3>
 </div>
 
-<img align="center" height="200" width="200" src="https://northamericanfurryclan.ga/images/3b4733ee.gif"/>
+<img align="center" height="100" width="100" src="https://northamericanfurryclan.ga/images/3b4733ee.gif"/>
 
 ---
 
