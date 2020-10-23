@@ -44,7 +44,7 @@
   <img align="center" src="https://github-readme-stats-six-omega-70.vercel.app/api?username=CaseyK9&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=midnight-purple"/>
 </a>
 <a href="https://github.com/CaseyK9/CaseyK9">
-  <img align="center" src="https://github-readme-stats-six-omega-70.vercel.app/api/wakatime/?username=CaseyK9&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=midnight-purple"/>
+  <img align="center" src="https://github-readme-stats-six-omega-70.vercel.app/api/wakatime?username=CaseyK9&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=midnight-purple"/>
 </a>
 
 ---
