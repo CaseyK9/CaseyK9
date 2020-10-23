@@ -39,9 +39,12 @@
 <h1 align="center">Some boring stats;<h1>
 
 <a href="https://github.com/CaseyK9/CaseyK9">
-   <img align="center" src="https://github-readme-stats-six-omega-70.vercel.app/api/top-langs/?username=CaseyK9&hide=shell,lua,vim%20script,dockerfile&hide_border=true&theme=midnight-purple"/></a>
+   <img align="center" src="https://github-readme-stats-six-omega-70.vercel.app/api/top-langs/?username=CaseyK9&hide=shell,vim%20script,dockerfile&hide_border=true&theme=midnight-purple"/></a>
 <a href="https://github.com/CaseyK9/CaseyK9">
   <img align="center" src="https://github-readme-stats-six-omega-70.vercel.app/api?username=CaseyK9&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=midnight-purple"/>
+</a>
+<a href="https://github.com/CaseyK9/CaseyK9">
+  <img align="center" src="https://github-readme-stats-six-omega-70.vercel.app/wakatime?username=CaseyK9&hide_border=true&show_icons=true&count_private=true&langs_count=10&theme=midnight-purple"/>
 </a>
 
 ---
