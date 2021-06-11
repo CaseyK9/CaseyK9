@@ -4,10 +4,7 @@
 
 <div>
   <h3 align="center">
-    Hello, I'm Maxwell, a cute canine from United States. 🇺🇸</br>
-    I am a <a href="https://en.wikipedia.org/wiki/Furry_fandom">furry</a>, so please no antifur behavior.</br>
-    My fursona is a clockwork K-9 named Casey, designed by Taki The Roadkill Collie.</br>
-    I currently reside in Virginia Beach, Virginia, outside of the Burton Station area.
+    censored
   </h3>
 </div>
 
@@ -31,7 +28,6 @@
   <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Linux-Ubuntu%2020.04-orange?&style=for-the-badge&logo=Ubuntu&logoColor=white"></a>
   <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.shields.io/badge/Microsoft-Windows%2010-yellow?&style=for-the-badge&logo=Windows&logoColor=white"></a>
   <a href="https://www.eclipse.org/ide/"><img src="https://img.shields.io/badge/Eclipse-Eclipse%20IDE-purple?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"></a>
-  <a href="https://discordhub.com/profile/210057481458548738"><img src="https://img.shields.io/badge/Discord-210057481458548738-purple?&style=for-the-badge&logo=Discord&logoColor=white"/></a>
 </div>
 
 ---
